@@ -112,7 +112,7 @@ const Contact = () => {
           </div>
           <div className="item">
             <FaLinkedin />
-            <a href="https://linkedin.com/in/mitul-t-b77414bb" target="_blank" rel="noreferrer">LinkedIn</a>
+            <a href="https://linkedin.com/in/mittul-t-b77414bb" target="_blank" rel="noreferrer">LinkedIn</a>
           </div>
           <div className="item">
             <FaGithub />
