@@ -116,7 +116,7 @@ const Contact = () => {
           </div>
           <div className="item">
             <FaGithub />
-            <a href="https://github.com/Mitul98" target="_blank" rel="noreferrer">GitHub</a>
+            <a href="https://github.com/Mittul98" target="_blank" rel="noreferrer">GitHub</a>
           </div>
         </RightSide>
       </Card>
